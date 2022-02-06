@@ -427,9 +427,9 @@
     "Enter your companys email address": "输入你的公司的地址",
     "Enter your companys website": "输入你的公司网站",
     "Enter your custom invoice prefix": "输入你的自定义发票前缀",
-    "The Language of the Datatables. Grab the Language-Codes from here": "The Language of the Datatables. Grab the Language-Codes from here",
-    "Let the Client change the Language": "Let the Client change the Language",
-    "Icons updated!": "Icons updated!",
+    "The Language of the Datatables. Grab the Language-Codes from here": "数据集的语言。从这里获取语言代码",
+    "Let the Client change the Language": "让客户改变语言",
+    "Icons updated!": "图标已更新!",
     "cs": "捷克语",
     "de": "德语",
     "en": "英语",
@@ -441,5 +441,5 @@
     "pl": "波兰语",
     "zh": "中文（简体）",
     "tr": "土耳其语",
-    "ru": "Russian"
+    "ru": "俄语"
 }
