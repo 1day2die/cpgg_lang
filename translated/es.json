@@ -18,7 +18,7 @@
     "Product has been updated!": "¡El producto ha sido actualizado!",
     "Store item has been removed!": "¡El artículo de la tienda ha sido eliminado!",
     "Created at": "Creado a",
-    "Error!": "Error!",
+    "Error!": "¡Error!",
     "unknown": "desconocido",
     "Pterodactyl synced": "Pterodactyl sincronizado",
     "Your credit balance has been increased!": "¡Su saldo de crédito ha aumentado!",
@@ -111,7 +111,7 @@
     "Admin Overview": "Vista de Administrador",
     "Support server": "Servidor de Ayuda",
     "Documentation": "Documentación",
-    "Github": "Github",
+    "Github": "GitHub",
     "Support ControlPanel": "Apoya ControlPanel",
     "Servers": "Servidores",
     "Total": "Total",
@@ -442,5 +442,6 @@
     "zh": "Chino",
     "tr": "Turco",
     "ru": "Ruso",
-    "sv": "Swedish"
+    "sv": "Sueco",
+    "sk": "Slovakish"
 }
