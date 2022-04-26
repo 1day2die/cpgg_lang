@@ -251,7 +251,7 @@
     "description": "Descrição",
     "Icon": "ícone",
     "Username": "Utilizador",
-    "Email": "Correio eletrónico",
+    "Email": "Email",
     "Pterodactyl ID": "ID do Pterodactyl",
     "This ID refers to the user account created on pterodactyls panel.": "Esta identificação refere-se à conta de utilizador criada no painel pterodactyl.",
     "Only edit this if you know what youre doing :)": "Só edite isto se souber o que está a fazer :)",
@@ -442,5 +442,5 @@
     "zh": "Chinês",
     "tr": "Turco",
     "ru": "Russo",
-    "sv": "Sueco"
+    "sv": "Swedish"
 }
