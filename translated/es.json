@@ -189,7 +189,7 @@
     "Mail From Name": "Nombre del correo",
     "Discord Client-ID": "Discord ID-Cliente",
     "Discord Client-Secret": "Discord Secreto-Cliente",
-    "Discord Bot-Token": "Discord Bot-Token",
+    "Discord Bot-Token": "Token de Bot de Discord",
     "Discord Guild-ID": "Identificación de Guild de Discord",
     "Discord Invite-URL": "URL de invitación del servidor de Discord",
     "Discord Role-ID": "ID del Rol de Discord",
@@ -443,5 +443,5 @@
     "tr": "Turco",
     "ru": "Ruso",
     "sv": "Sueco",
-    "sk": "Slovakish"
+    "sk": "Eslovaco"
 }
