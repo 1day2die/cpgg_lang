@@ -229,7 +229,7 @@
     "Server Limit Increase - E-Mail": "Navýšení limitu serverů - E-Mail",
     "Server": "Server",
     "Server Allocation Limit": "Alokační limit pro server",
-    "The maximum amount of allocations to pull per node for automatic deployment, if more allocations are being used than this limit is set to, no new servers can be created!": "The maximum amount of allocations to pull per node for automatic deployment, if more allocations are being used than this limit is set to, no new servers can be created!",
+    "The maximum amount of allocations to pull per node for automatic deployment, if more allocations are being used than this limit is set to, no new servers can be created!": "Maximální počet portů které lze použít při vytváření serverů. Pokud bude využito více portů, než je nastaven tento limit, nebude možné vytvářet žádné další nové servery!",
     "Select panel icon": "Vybrat ikonu panelu",
     "Select panel favicon": "Vybrat favikonu panelu",
     "Store": "Obchod",
