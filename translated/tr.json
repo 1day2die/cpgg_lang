@@ -106,9 +106,9 @@
     "ID": "ID",
     "eggs": "eggs",
     "Name": "İsim",
-    "Nodes": "Nodes",
+    "Nodes": "Düğümler",
     "Location": "Lokasyon",
-    "Admin Overview": "Admin Overview",
+    "Admin Overview": "Yönetim Genel Bakış",
     "Support server": "Destek sunucusu",
     "Documentation": "Dökümantasyon",
     "Github": "GitHub",
@@ -442,6 +442,6 @@
     "zh": "Çince",
     "tr": "Türkçe",
     "ru": "Rusça",
-    "sv": "Swedish",
-    "sk": "Slovakish"
+    "sv": "İsveççe",
+    "sk": "Slovakça"
 }
