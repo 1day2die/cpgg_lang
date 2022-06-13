@@ -12,7 +12,7 @@ Check the availbility of your desired language here
 https://crowdin.com/project/controlpanelgg
 
 
-**22.04.2022**
+*13.06.2022**
 
 
-![image](https://user-images.githubusercontent.com/8725848/164566616-56a8043a-8bde-45c9-b091-da45b89bb777.png)
+![image](https://user-images.githubusercontent.com/8725848/173442316-aadaa4fe-5190-4717-ac92-50d6d2599ff5.png)
