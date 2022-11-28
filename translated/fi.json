@@ -75,7 +75,7 @@
     "You are required to verify your email address before you can create a server.": "Sinun täytyy vahvistaa sähköposti-osoitteesi ennen kuin voit luoda palvelimen.",
     "You are required to link your discord account before you can create a server.": "Sinun täytyy linkata discord käyttäjäsi voidaksesi luoda palvelimen.",
     "Server created": "Palvelin luotu",
-    "No allocations satisfying the requirements for automatic deployment on this node were found.": "No allocations satisfying the requirements for automatic deployment on this node were found.",
+    "No allocations satisfying the requirements for automatic deployment on this node were found.": "Palvelimella ei ole tarpeeksi allokaatioita.",
     "´This is not your Server!": "´This is not your Server!",
     "this product is the only one": "this product is the only one",
     "Server Successfully Upgraded": "Server Successfully Upgraded",
