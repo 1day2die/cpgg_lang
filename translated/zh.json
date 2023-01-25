@@ -182,7 +182,7 @@
     "Individual nodes": "个别节点",
     "You reached the Pterodactyl perPage limit. Please make sure to set it higher than your server count.": "您已达到翼龙每页的限制。 请确保将其设置为高于您的服务器数量。",
     "You can do that in settings.": "您可以在设置中执行此操作。",
-    "Note": "Note",
+    "Note": "备注",
     "If this error persists even after changing the limit, it might mean a server was deleted on Pterodactyl, but not on ControlPanel. Try clicking the button below.": "如果此错误在更改限制后仍然存在，则可能意味着服务器在翼龙上被删除，但在 ControlPanel 上没有。 试试点击下面的按钮。",
     "Sync servers": "同步服务器",
     "Node": "节点",
