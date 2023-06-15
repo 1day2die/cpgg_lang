@@ -11,7 +11,7 @@
     "System settings have not been updated!": "A Rendszer beállítások nem lettek elmentve!",
     "System settings updated!": "A Rendszer beállítások el lettek mentve!",
     "Discount": "Kedvezmény",
-    "The product you chose can't be purchased with this payment method. The total amount is too small. Please buy a bigger amount or try a different payment method.": "A választott terméket nem tudod megvásárolni ezzel a fizetési móddal. A végösszeg túl alacsony. Növeld meg a végösszeget, vagy próbálj meg egy másik fizetési módot.",
+    "The product you chose can't be purchased with this payment method. The total amount is too small. Please buy a bigger amount or try a different payment method.": "A választott terméket nem lehet megvásárolni ezzel a fizetési móddal. A végösszeg túl alacsony. Növelje meg a végösszeget, vagy próbáljon meg egy másik fizetési módot.",
     "Tax": "Adó",
     "Your payment has been canceled!": "A fizetés vissza lett vonva!",
     "api key created!": "API kulcs létrehozva!",
